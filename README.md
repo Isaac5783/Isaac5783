@@ -1,10 +1,16 @@
-- I’m Isaac H Rad
-- I’m interested in Machine Learning and Deep Learning
-- I’m currently learning more advanced technics of Deep Learning
-- I’m looking to collaborate on ML and DL projects
-- You can find me here 
+# Hi, I'm Isaac Honarmand Rad 
 
-<!---
-Isaac5783/Isaac5783 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Research Engineer** working at the intersection of **Machine Learning, Deep Learning, Medical Imaging, and Computational Science**.
+
+My research interests include:
+
+* 🧠 **Deep Learning & AI for Biomedical Applications**
+* 🧬 **Computational Biology & Drug Discovery**
+* ⚛️ **Scientific & Computational Modeling**
+* 💻 **HPC, Parallel Computing & Scientific Computing**
+
+I enjoy working on interdisciplinary problems where AI and computational methods can contribute to scientific and biomedical research.
+
+📄 **Research:** https://orcid.org/0009-0007-8831-5486
+💼 **LinkedIn:** https://www.linkedin.com/in/isaac-h-rad/
+
