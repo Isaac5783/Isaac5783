@@ -5,8 +5,9 @@ I'm a **Research Engineer** working at the intersection of **Machine Learning, D
 My research interests include:
 
 * 🧠 **Deep Learning & AI for Biomedical Applications**
-* 🧬 **Computational Biology & Drug Discovery**
-* ⚛️ **Scientific & Computational Modeling**
+* 🧬 **Computational Biology, Proteomics & & Multi-omics**
+* 🔗 **Multimodal AI & Biological Data Integration**
+* 💊 **AI for Drug & Peptide Discovery**
 * 💻 **HPC, Parallel Computing & Scientific Computing**
 
 I enjoy working on interdisciplinary problems where AI and computational methods can contribute to scientific and biomedical research.
